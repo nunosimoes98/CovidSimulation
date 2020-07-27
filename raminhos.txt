@@ -1,0 +1,7 @@
+PauloPires1  23  S
+AnaLebre34A  55  I
+Tomas111  12  S
+PauloPires2  67  D  9
+LuisaSantos  40  D  2
+Zulmira2A  17  S
+MartaFaustino  40  D  8

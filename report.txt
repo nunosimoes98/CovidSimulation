@@ -1,0 +1,72 @@
+
+	Passaram 11 dia(s)!!
+
+
+
+	Numero da Sala:1
+	Numero de pessoas:2
+	Pessoas Doentes:0
+	Pessoas Imunes:2
+	Pessoas Saudaveis:0
+	Numero pessoas adicionadas:0
+	Numero de pessoas tranferidas:0
+
+		Pessoa ID:AnaLebre34A
+		Idade:55
+		Estado:I
+
+		Pessoa ID:LuisaSantos
+		Idade:40
+		Estado:I
+		Esta pessoa ficou Imune!!
+
+
+	Numero da Sala:2
+	Numero de pessoas:0
+	Pessoas Doentes:0
+	Pessoas Imunes:0
+	Pessoas Saudaveis:0
+	Numero pessoas adicionadas:0
+	Numero de pessoas tranferidas:0
+
+
+	Numero da Sala:3
+	Numero de pessoas:5
+	Pessoas Doentes:1
+	Pessoas Imunes:1
+	Pessoas Saudaveis:3
+	Numero pessoas adicionadas:1
+	Numero de pessoas tranferidas:1
+
+		Pessoa ID:PauloPires1
+		Idade:23
+		Estado:S
+
+		Pessoa ID:Tomas111
+		Idade:12
+		Estado:S
+
+		Pessoa ID:PauloPires2
+		Idade:67
+		Estado:I
+		Esta pessoa ficou Imune!!
+
+		Pessoa ID:Manuel
+		Idade:3000
+		Estado:D
+		Numero de dias infetado:299
+		Foi uma pessoa adicionada!!
+
+		Pessoa ID:Zulmira2A
+		Idade:17
+		Estado:S
+		Foi uma pessoa tranferida!!
+
+
+	Numero da Sala:4
+	Numero de pessoas:0
+	Pessoas Doentes:0
+	Pessoas Imunes:0
+	Pessoas Saudaveis:0
+	Numero pessoas adicionadas:0
+	Numero de pessoas tranferidas:0
